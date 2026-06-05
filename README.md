@@ -61,7 +61,8 @@ Part-time Software Engineering student, which means I'm available full-time. I b
       <p>Local OSINT dashboard — takes a target handle or URL, queries public sources, runs evaluation logic, and surfaces findings in a structured report.</p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-19-61dafb?style=flat-square&logo=react&logoColor=black)](https://react.dev/">
+        <img src="https://img.shields.io/badge/FastAPI-0.136-009688?style=flat-square&logo=fastapi&logoColor=white">
       </p>
     </td>
   </tr>
