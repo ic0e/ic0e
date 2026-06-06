@@ -48,17 +48,18 @@ Part-time Software Engineering student, which means I'm available full-time. I b
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/ic0e/NeuralForge">NeuralForge</a></h3>
-      <p>Visual neural network builder — create and train PyTorch models through a web UI. Built as a diploma thesis. Focused on making ML accessible without hiding the mechanics.</p>
+      <p>Visual neural network builder - create and train PyTorch models through a web UI. Built as a diploma thesis. Focused on making ML accessible without hiding the mechanics.</p>
       <p>
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
         <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-19-61dafb?style=flat-square&logo=react&logoColor=black)](https://react.dev/">
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
       </p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/ic0e/OS-Recon">OS-Recon</a></h3>
-      <p>Local OSINT dashboard — takes a target handle or URL, queries public sources, runs evaluation logic, and surfaces findings in a structured report.</p>
+      <p>Local OSINT dashboard - takes a target handle or URL, queries public sources, runs evaluation logic, and surfaces findings in a structured report.</p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
         <img src="https://img.shields.io/badge/React-19-61dafb?style=flat-square&logo=react&logoColor=black)](https://react.dev/">
