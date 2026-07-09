@@ -68,11 +68,13 @@ Part-time Software Engineering student, which means I'm available full-time. I b
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/ic0e/WikiAtlas">WikiAtlas</a></h3>
-      <p>Visualizes the connection graph between Wikipedia articles. Give it a topic, watch the web expand.</p>
+        <td width="50%" valign="top">
+      <h3><a href="https://github.com/ic0e/vague">vague</a></h3>
+      <p>Fully local, multimodal semantic search in Rust. Searches text and images by meaning instead of keywords, using Ollama for text and CLIP for images. No data leaves your machine, no matter how vague your query is.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CLIP-000000?style=flat-square"/>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -112,6 +114,7 @@ Part-time Software Engineering student, which means I'm available full-time. I b
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
 </p>
 
 </td>
