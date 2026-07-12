@@ -71,11 +71,11 @@ Part-time Software Engineering student, which means I'm available full-time. I b
   <tr>
         <td width="50%" valign="top">
       <h3><a href="https://github.com/ic0e/vague">vague</a></h3>
-      <p>Fully local, multimodal semantic search in Rust. Searches text and images by meaning instead of keywords, using Ollama for text and CLIP for images. No data leaves your machine, no matter how vague your query is.</p>
+      <p>Fully local, multimodal semantic search in Rust. Searches text and images by meaning instead of keywords, using Ollama for text and CLIP for images. Can find anything based on context, no matter how vague your query is. </p>
       <p>
         <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
         <img src="https://img.shields.io/badge/CLIP-000000?style=flat-square"/>
+        <img src="https://img.shields.io/badge/fastembed-000000?style=flat-square"/>
       </p>
     </td>
     <td width="50%" valign="top">
