@@ -10,9 +10,9 @@
 
 ## About
 
-> I build things that interest me.
+> Building projects I find interesting.
 
-Part-time Software Engineering student, which means I'm available full-time. I build across the stack: ML, automation, backend, frontend. Always learning, always open to work.
+Part time student based in Bulgaria, available full time. I build full stack with a focus on: backend, ML, automation, frontend. Constantly learning, always open to work.
 
 <div align="center">
 
@@ -79,27 +79,14 @@ Part-time Software Engineering student, which means I'm available full-time. I b
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/ic0e/lol-diamond-match-analysis">LoL Match Analysis</a></h3>
-      <p>ML analysis of early-game patterns in Diamond-ranked League of Legends matches. Tests early-lead hypotheses across 3 distinct models.</p>
+      <h3><a href="https://github.com/ic0e/lol-diamond-match-analysis">WikiAtlas</a></h3>
+      <p>A curiosity driven Python project that creates visual graphs of the connections between Wikipedia articles.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
       </p>
     </td>
   </tr>
 </table>
-<!-- Badge logo reference (shields.io):
-  python → logo=python, color=3776AB
-  pytorch → logo=pytorch, color=EE4C2C
-  flask → logo=flask, color=000000
-  fastapi → logo=fastapi, color=009688
-  nextjs → logo=nextdotjs, color=000000
-  typescript → logo=typescript, color=3178C6
-  postgresql → logo=postgresql, color=336791
-  docker → logo=docker, color=2496ED
-  firebase → logo=firebase, color=FFCA28
-  Full list: https://simpleicons.org
--->
 
 ---
 
