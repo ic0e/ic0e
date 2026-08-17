@@ -79,10 +79,12 @@ Part time student based in Bulgaria, available full time. I build full stack wit
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/ic0e/lol-diamond-match-analysis">WikiAtlas</a></h3>
-      <p>A curiosity driven Python project that creates visual graphs of the connections between Wikipedia articles.</p>
+      <h3><a href="https://github.com/ic0e/lol-diamond-match-analysis">HashPaste</a></h3>
+      <p><a href="hash-paste.vercel.app">hash-paste.vercel.app</a></p>
+      <p>A zero database web application that compresses and embeds text into URL hash fragments for instant sharing.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-19-61dafb?style=flat-square&logo=react&logoColor=black)](https://react.dev/">
       </p>
     </td>
   </tr>
