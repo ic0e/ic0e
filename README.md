@@ -139,10 +139,4 @@ Part time student based in Bulgaria, available full time. Full stack developer b
 
 <br/>
 
-## GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ic0e&bg_color=0a0e27&color=22d3ee&line=0891b2&point=ffffff&area=true&hide_border=true&radius=8" width="98%"/>
-</div>
-
 ---
