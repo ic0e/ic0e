@@ -12,7 +12,7 @@
 
 > Building projects I find interesting.
 
-Part time student based in Bulgaria, available full time. Full stack developer building backend systems and developer tools. Specializing in system design and backend.
+Part time student based in Bulgaria, available full time. Full stack developer building backend systems and accessible tools. Specializing in system design and APIs.
 
 <div align="center">
 
